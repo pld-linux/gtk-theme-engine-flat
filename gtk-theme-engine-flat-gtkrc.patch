@@ -1,0 +1,9 @@
+--- gtk-flat-theme-0.1/Theme/gtk/gtkrc~	Wed May 14 12:35:56 2003
++++ gtk-flat-theme-0.1/Theme/gtk/gtkrc	Wed May 14 12:35:56 2003
+@@ -1,6 +1,5 @@
+ style "default"
+ {
+-  font = "-cronyx-helvetica-medium-r-normal-*-14-*-*-*-p-*-koi8-r"
+   bg[NORMAL]      = { 0.90, 0.90, 0.90 }
+   fg[NORMAL]      = { 0.00, 0.00, 0.00 }
+   bg[PRELIGHT]    = { 1.00, 1.00, 1.00 }
