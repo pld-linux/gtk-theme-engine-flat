@@ -5,6 +5,7 @@ Release:	1
 License:	LGPL
 Group:		Themes/Gtk
 Source0:	http://download.freshmeat.net/themes/flat/flat-1.2.x.tar.gz
+Patch0:		%{name}-gtkrc.patch
 BuildRequires:	autoconf
 BuildRequires:	automake
 BuildRequires:	gtk+-devel
@@ -20,6 +21,7 @@ engines; the colors and background pixmaps are fully customizable.
 
 %prep
 %setup  -q -n gtk-flat-theme-%{version}
+%patch0 -p1
 
 %build
 rm -f missing acinclude.m4
