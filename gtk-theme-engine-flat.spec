@@ -2,9 +2,9 @@ Summary:	This theme engine gives gtk+ a flattened appearance
 Summary(pl):	Motyw daj±cy gtk+ sp³aszczony wygl±d
 Name:		gtk-theme-engine-flat
 Version:	0.1
-Release:	1
+Release:	2
 License:	LGPL
-Group:		Themes/Gtk
+Group:		Themes/GTK+
 Source0:	http://download.freshmeat.net/themes/flat/flat-1.2.x.tar.gz
 # Source0-md5:	5b9e6c974c2417b5793b5c930be29f5d
 Patch0:		%{name}-gtkrc.patch
