@@ -18,7 +18,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 This theme engine gives gtk+ a flattened appearance with elements
 taken from the MacOS and Metal uis. Modified from the default and
 metal theme engines; the colors and background pixmaps are fully
-customizable. 
+customizable.
 
 %description -l pl
 Ten motyw daje gtk+ sp³aszczony wygl±d z elementami wziêtymi z
