@@ -1,5 +1,5 @@
-Summary:	This theme engine gives gtk+ a flattened appearance
-Summary(pl):	Motyw daj±cy gtk+ sp³aszczony wygl±d
+Summary:	This theme engine gives GTK+ a flattened appearance
+Summary(pl):	Motyw daj±cy GTK+ sp³aszczony wygl±d
 Name:		gtk-theme-engine-flat
 Version:	0.1
 Release:	2
@@ -15,13 +15,13 @@ BuildRequires:	libtool
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-This theme engine gives gtk+ a flattened appearance with elements
+This theme engine gives GTK+ a flattened appearance with elements
 taken from the MacOS and Metal uis. Modified from the default and
 metal theme engines; the colors and background pixmaps are fully
 customizable.
 
 %description -l pl
-Ten motyw daje gtk+ sp³aszczony wygl±d z elementami wziêtymi z
+Ten motyw daje GTK+ sp³aszczony wygl±d z elementami wziêtymi z
 interfejsów u¿ytkownika MacOS i Metal. Jest zmodyfikowany w stosunku
 do motywów default i metal; kolory i obrazy t³a s± w pe³ni
 konfigurowalne.
