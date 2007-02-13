@@ -1,5 +1,5 @@
 Summary:	This theme engine gives GTK+ a flattened appearance
-Summary(pl.UTF-8):   Motyw dający GTK+ spłaszczony wygląd
+Summary(pl.UTF-8):	Motyw dający GTK+ spłaszczony wygląd
 Name:		gtk-theme-engine-flat
 Version:	0.1
 Release:	2
