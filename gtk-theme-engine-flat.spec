@@ -28,7 +28,7 @@ konfigurowalne.
 
 %prep
 %setup  -q -n gtk-flat-theme-%{version}
-%patch0 -p1
+%patch -P0 -p1
 
 %build
 rm -f missing acinclude.m4
